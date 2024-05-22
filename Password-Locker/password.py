@@ -1,29 +1,32 @@
-#An insecure python password locker
+import sys
+import pyperclip
+
 passwords = {}
 
 def add_passwords():
-    num_accounts = int(input("enter the number of accounts you wanna add or press nothing to add nothing: "))
-    if num_accounts == "":
-        break
+    try:
+        num_accounts = input("Enter the number of accounts you want to add or press enter to add none: ")
+        if num_accounts == "":
+            return
+        num_accounts = int(num_accounts)
         for i in range(num_accounts):
             key = input("Enter Username: ")
-            value = input("Enter password: ")
+            value = input("Enter Password: ")
             passwords[key] = value
-
-    print("The Database: ", passwords)
-
-import sys
-import pyperclip
+        print("The Database: ", passwords)
+    except ValueError:
+        print("Invalid number entered. Please enter an integer.")
 
 if len(sys.argv) < 2:
     print("Usage: python password.py [account] - copy account password")
     sys.exit()
-account =  sys.argv[1] 
+
+account = sys.argv[1]
 
 if account in passwords:
     pyperclip.copy(passwords[account])
-    print('Password for ' + account + 'copied to clipboard')
+    print('Password for ' + account + ' copied to clipboard')
 else:
-    print("there is no account named " + account)
+    print("There is no account named " + account)
 
 add_passwords()

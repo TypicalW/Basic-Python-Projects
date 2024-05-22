@@ -1,3 +1,3 @@
-"D:\Code\Python\Basic-Fun-Python\Password-Locker\password.py"
-"C:\Users\ashmi\AppData\Local\Programs\Python\Python311\python.exe"
-@pause 
+"D:\Code\Python\Basic-Fun-Python\Password-Locker\password.py" //Location of python script file
+"C:\Users\ashmi\AppData\Local\Programs\Python\Python311\python.exe" //Location of Python.exe stored on your local machine
+@pause //The @pause command in a Windows command prompt (cmd) script is used to temporarily halt the execution of the script and wait for the user to press any key before continuing.
