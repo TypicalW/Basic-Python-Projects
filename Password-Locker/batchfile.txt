@@ -1,0 +1,3 @@
+"D:\Code\Python\Basic-Fun-Python\Password-Locker\password.py"
+"C:\Users\ashmi\AppData\Local\Programs\Python\Python311\python.exe"
+@pause 
