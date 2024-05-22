@@ -7,9 +7,9 @@ This is a simple, insecure password locker written in Python. It allows users to
 <ul>Retrieve and copy account passwords to the clipboard using command-line arguments.</ul>
 <ul>Simple and easy to use.</ul>
 <H3>Usage</H3>
-<ul>Adding Passwords</ul>
+<ul><u></u>Adding Passwords</u></ul>
 <p>When you run the script, you can add new account-password pairs. The script will prompt you to enter the number of accounts you want to add, followed by the username and password for each account.</p>
-<ul>Retrieving Passwords</ul>
+<ul><u>Retrieving Passwords</u></ul>
 <p>You can retrieve and copy the password for a specific account using the command line. The password will be copied to your clipboard.</p>
 <H3>Important Note</H3>
 <p>This script is insecure because it stores passwords in plain text and does not use any encryption or secure storage mechanisms. It is intended for educational purposes only. For any real-world application, use a secure method for storing and handling passwords. Also is a Windows-only script, Linux and MacOS users may have to make appropirate changes.</p>
