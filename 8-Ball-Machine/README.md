@@ -15,6 +15,6 @@ Motivation Behind writing this script was to try out certain functions and modul
 <ul></ul>
 <br>
 <h3>Build Status</h3></h3>
- <i>Pending.</i> <br>
- The Idea of the Machine and it's mannerisms have been decided and noted down, Just working on building it now.
+ <i>Completed.</i> <br>
+ Fun Project to work at, Got more accustomed to working with nested loops and handling them.
  
