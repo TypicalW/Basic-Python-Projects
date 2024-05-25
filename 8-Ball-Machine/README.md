@@ -9,6 +9,9 @@ Motivation Behind writing this script was to try out certain functions and modul
 <h3>Features<h3>
 <ul>Offers a wide array of phrases to be chosen answers from.</ul>
 <ul>Has a Counter of repeated Asked Questions and changes Probablity of answers accordingly</ul>
+<ul>Answers Certain Answers to Certain Keywords</ul>
+<ul>Answers Certain Answers to Repeated Inputs</ul>
+<ul></ul>
 <ul></ul>
 <br>
 <h3>Build Status</h3></h3>
