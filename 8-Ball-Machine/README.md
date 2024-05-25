@@ -6,6 +6,11 @@ This Script contains around 3 times the amount of phrases present in a physical 
 <H3> Motivation </H3>
 Motivation Behind writing this script was to try out certain functions and module in Python as well as dive deeper into my fate and ask some questions I may have been waiting of the answers for. 
 <br>
+<h3>Features<h3>
+<ul>Offers a wide array of phrases to be chosen answers from.</ul>
+<ul>Has a Counter of repeated Asked Questions and changes Probablity of answers accordingly</ul>
+<ul></ul>
+<br>
 <h3>Build Status</h3></h3>
  <i>Pending.</i> <br>
  The Idea of the Machine and it's mannerisms have been decided and noted down, Just working on building it now.
