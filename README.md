@@ -1,4 +1,4 @@
-# Basic-Fun-Python-Scripts
+# Basic-Python-Projects-Scripts
 Trying out making some basic yet fun programs in python fueled by Creativity :D . <br>
 <H3>Pre-Requisites</H3>
 Some of the Python Libraries I've Used in this project are as follows and instructions to install them:<br>
